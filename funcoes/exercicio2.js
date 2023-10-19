@@ -1,5 +1,5 @@
 
-/* Refazendo o exercicio5 da pasta basico, só que dessa vez com função */
+/* Refazendo o exercicio5 da pasta artimetica e condicionais, só que dessa vez com função */
 
 /*
 
